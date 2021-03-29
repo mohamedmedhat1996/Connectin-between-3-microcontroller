@@ -1,0 +1,2 @@
+void
+InitConsole(void);

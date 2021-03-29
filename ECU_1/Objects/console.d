@@ -1,0 +1,16 @@
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\console.c
+.\objects\console.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\console.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\inc/hw_can.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\inc/hw_ints.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\inc/hw_memmap.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\inc/hw_types.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\driverlib/can.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\driverlib/gpio.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\driverlib/interrupt.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\driverlib/pin_map.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\driverlib/sysctl.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\driverlib/uart.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\utils/uartstdio.h
+.\objects\console.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\console.o: C:\Users\mm\Videos\midterm\EC1\EC1_updated\console.h

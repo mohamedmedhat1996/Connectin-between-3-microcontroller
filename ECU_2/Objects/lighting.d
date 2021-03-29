@@ -1,0 +1,17 @@
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\lighting.c
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\lighting.h
+.\objects\lighting.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lighting.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\inc/hw_can.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\inc/hw_memmap.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\driverlib/can.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\driverlib/gpio.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\driverlib/interrupt.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\driverlib/pin_map.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\driverlib/sysctl.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\driverlib/uart.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\utils/uartstdio.h
+.\objects\lighting.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\Dio_IntPin.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\lamp.h
+.\objects\lighting.o: C:\Users\mm\Videos\midterm\EC2\EC2\Dio_IntPin.h

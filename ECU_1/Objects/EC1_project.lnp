@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+".\objects\main.o"
+".\objects\can_rx.o"
+".\objects\console.o"
+".\objects\dio_intpin.o"
+".\objects\lamp.o"
+".\objects\lighting.o"
+".\objects\state_receiver.o"
+".\objects\switch_interput.o"
+".\objects\my_tasks.o"
+"D:\tivaware\driverlib\rvmdk\driverlib.lib"
+".\objects\uartstdio.o"
+".\objects\can.o"
+".\objects\gpio.o"
+".\objects\startup_tm4c123.o"
+".\objects\system_tm4c123.o"
+".\objects\freertos_evr.o"
+".\objects\list.o"
+".\objects\heap_2.o"
+".\objects\port.o"
+".\objects\queue.o"
+".\objects\tasks.o"
+".\objects\timers.o"
+--library_type=microlib --strict --scatter ".\Objects\EC1_project.sct"
+--entry Reset_Handler --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\EC1_project.map" -o .\Objects\EC1_project.axf
